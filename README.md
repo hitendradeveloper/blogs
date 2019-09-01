@@ -1,4 +1,4 @@
-# Blogs by Hitendra Solanki
+# HSIndexes - Blogs by Hitendra Solanki
 
 ![HSBanner](https://miro.medium.com/max/4000/1*q2wsc_IGgoxqqGfKcVouow.jpeg)
 
@@ -10,13 +10,13 @@
 - #### Part 2 - [Singleton Pattern: pure-singleton and semi-singleton design pattern in Swift](https://medium.com/p/431314237b10 "Singleton Pattern: pure-singleton and semi-singleton design pattern in Swift")
 - #### Part 3 - [Adapter pattern in Swift](https://medium.com/p/112a956c1101 "Adapter pattern in Swift")
 
-
+#
 
 ### UndoManager in Swift 5 with example
 - ####  [Perform undo-redo actions in a more simple way](https://medium.com/p/8c791e231b87 "Perform undo-redo actions in a more simple way")
 
 
-
+#
 ### Protocol — The power of Swift
 - #### Part 1 - [What are type-casting and class-types?](https://medium.com/p/5dfe9bc41a99 "What are type-casting and class-types?")
 - #### Part 2 - [Conforming a protocol](https://medium.com/p/950c85bb69b1 "Conforming a protocol")
