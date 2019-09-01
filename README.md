@@ -2,7 +2,18 @@
 
 ![HSBanner](https://miro.medium.com/max/4000/1*q2wsc_IGgoxqqGfKcVouow.jpeg)
 
+
+#
+
 ### Design patterns by Tutorials — The power of OOP
 - #### Part 1 - [Faceted and Fluent Builder pattern in Swift](https://medium.com/p/2e871b551cbe "Faceted and Fluent Builder pattern in Swift")
 - #### Part 2 - [Singleton Pattern: pure-singleton and semi-singleton design pattern in Swift](https://medium.com/p/431314237b10 "Singleton Pattern: pure-singleton and semi-singleton design pattern in Swift")
 - #### Part 3 - [Adapter pattern in Swift](https://medium.com/p/112a956c1101 "Adapter pattern in Swift")
+
+#
+### Protocol — The power of Swift
+- #### Part 1 - [What are type-casting and class-types?](https://medium.com/p/5dfe9bc41a99 "What are type-casting and class-types?")
+- #### Part 2 - [Conforming a protocol](https://medium.com/p/950c85bb69b1 "Conforming a protocol")
+- #### Part 3 - [Protocol composition in Swift](https://medium.com/p/45e97f6531f9 "Protocol composition in Swift")
+- #### Part 4 - [My rule of thumb for possible data types in Swift](https://medium.com/p/6906cdedd867 "My rule of thumb for possible data types in Swift")
+- #### Part 5 - [Protocol as a super-type](https://medium.com/p/1e5b86bfd1dc "Protocol as a super-type")
