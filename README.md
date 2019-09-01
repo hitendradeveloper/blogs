@@ -23,3 +23,14 @@
 - #### Part 3 - [Protocol composition in Swift](https://medium.com/p/45e97f6531f9 "Protocol composition in Swift")
 - #### Part 4 - [My rule of thumb for possible data types in Swift](https://medium.com/p/6906cdedd867 "My rule of thumb for possible data types in Swift")
 - #### Part 5 - [Protocol as a super-type](https://medium.com/p/1e5b86bfd1dc "Protocol as a super-type")
+
+#
+
+### Programming Architectures in Swift
+- #### Part 1 - [Redux - The introduction of Redux | ReSwift](https://medium.com/p/c2dabfd87464 "Redux - The introduction of Redux | ReSwift")
+
+
+#
+### WWDC - World Wide Developer Conference
+- #### [What's new in iOS, WatchOS, MacOS, tvOS - WWDC 2018](https://medium.com/p/840ba1fefd25 "What's new in iOS, WatchOS, MacOS, tvOS - WWDC 2018")
+- #### [What's new in Swift 4.2 Major Release - WWDC 2018](https://medium.com/p/85ef281a6a80 "What's new in Swift 4.2 Major Release - WWDC 2018")
