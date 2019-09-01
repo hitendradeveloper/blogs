@@ -1,4 +1,4 @@
-# HSIndexes - Blogs by Hitendra Solanki
+# Blogs by Hitendra Solanki
 
 ![HSBanner](https://miro.medium.com/max/4000/1*q2wsc_IGgoxqqGfKcVouow.jpeg)
 
