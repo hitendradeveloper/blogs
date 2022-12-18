@@ -10,7 +10,8 @@
 - #### Part 2 - [Singleton Pattern: pure-singleton and semi-singleton design pattern in Swift](https://medium.com/p/431314237b10 "Singleton Pattern: pure-singleton and semi-singleton design pattern in Swift")
 - #### Part 3 - [Adapter pattern in Swift](https://medium.com/p/112a956c1101 "Adapter pattern in Swift")
 
-
+### Swift Standard Library
+- #### Part 1 - [Swift — Literals by Tutorials?](https://medium.com/p/50e97b74b539 "Swift — Literals by Tutorials")
 
 ### UndoManager in Swift 5 with example
 - ####  [Perform undo-redo actions in a more simple way](https://medium.com/p/8c791e231b87 "Perform undo-redo actions in a more simple way")
