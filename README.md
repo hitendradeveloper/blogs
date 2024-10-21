@@ -10,11 +10,18 @@
 - #### Part 2 - [Singleton Pattern: pure-singleton and semi-singleton design pattern in Swift](https://medium.com/p/431314237b10 "Singleton Pattern: pure-singleton and semi-singleton design pattern in Swift")
 - #### Part 3 - [Adapter pattern in Swift](https://medium.com/p/112a956c1101 "Adapter pattern in Swift")
 
+### Mastering Thread Safety & Concurrency in iOS Development with Swift
+- #### Part 1 - [Overview: Thread Safety & Concurrency](https://medium.com/p/12ef48b05854 "Mastering Thread Safety & Concurrency in iOS Development with Swift")
+- #### Part 2 - [Grand Central Dispatch (GCD): A Comprehensive Guide](https://medium.com/p/4324312ef62b "Mastering Grand Central Dispatch (GCD) for iOS Development with Swift: A Comprehensive Guide")
+  
 ### Swift Standard Library
 - #### [Swift — Literals by Tutorials](https://medium.com/p/50e97b74b539 "Swift — Literals by Tutorials")
 
 ### UndoManager in Swift 5 with example
 - ####  [Perform undo-redo actions in a more simple way](https://medium.com/p/8c791e231b87 "Perform undo-redo actions in a more simple way")
+
+
+
 
 
 
